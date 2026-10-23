@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["97HZA3D7W4.com.streamlinedcoaching.breakthrough"],
+        "components": [
+          {
+            "/": "/clients/*/messages",
+            "comment": "A coaching space's messages: the iPhone app opens the thread (apps/mobile/src/lib/links.ts)."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["97HZA3D7W4.com.streamlinedcoaching.breakthrough"]
+  }
+}
